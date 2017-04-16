@@ -1,0 +1,9 @@
+HELP
+----------------------------------------------------------------
+
+Welcome to car crash!! We will guide you how to play this game.
+Use left and right arrow to move your red car and save your car
+from colliding the yellow car.
+
+All the best!!
+-----------------------------------------------------------------
